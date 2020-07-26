@@ -10,11 +10,17 @@ An optimal allocation of preventive forces can lead to lower crime rates, cost-e
 
 
 1.2 Objectives
+
 Look at the breakdown of crime within Chicagoland
+
 Inspect the different types of crimes that happened between 2005 to 2017
+
 Predict the likelihood of crimes happening with specific conditions
+
 Prediction 1: crime type
+
 Prediction 2: arrest
+
 Recognize important features in predicting crimes
 
 
